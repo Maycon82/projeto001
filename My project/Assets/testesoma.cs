@@ -15,7 +15,6 @@ public class testesoma : MonoBehaviour
         C = A + B;
 
         Debug.Log(C);
-
     }
     
     void Update()
