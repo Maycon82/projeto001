@@ -16,9 +16,9 @@ public class testesoma : MonoBehaviour
 
         Debug.Log(C);
     }
-    
     void Update()
     {
         
     }
 }
+
