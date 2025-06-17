@@ -48,7 +48,7 @@
              if (numeroDeTentativas == 0)
              {
                  Debug.Log("Suas tentavivas acabanram. O número que pessei foi: "+sorteado);
-                 OJogoEstaRodando = false;
+                // OJogoEstaRodando = false;
              }
 
          }
