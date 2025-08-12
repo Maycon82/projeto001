@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3cdc3a256283b2b4b90eeadca2625b5c
+guid: d1da886bd26c82d49861da3cc40acaf6
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idle Sword 04_0: 2866982610417709342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b7b4ad908106e3c4788dc8aa48bb1a6e
+guid: 04f8393ae5e6356488986393191adec6
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Run Sword 01_0: -8168740702658750121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
