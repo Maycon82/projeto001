@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4be5c20219fbf5d42805571fab683ee2
+guid: c0d051fe1d86b9843b0715c798dc271e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2763940042757953526
-    second: Back Palm Tree Regular 04_0
+      213: -727943335402031445
+    second: Back Palm Tree Regular 02_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,10 +100,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Back Palm Tree Regular 04_0
+      name: Back Palm Tree Regular 02_0
       rect:
         serializedVersion: 2
-        x: 12
+        x: 13
         y: 0
         width: 40
         height: 64
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a082fe2dc2384a9d0800000000000000
-      internalID: -2763940042757953526
+      spriteID: ba6bfbca463d5e5f0800000000000000
+      internalID: -727943335402031445
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Back Palm Tree Regular 04_0: -2763940042757953526
+      Back Palm Tree Regular 02_0: -727943335402031445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
