@@ -129,6 +129,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Terrain (32x32) 1_0: 5573014761828480624
+      Terrain (32x32) 1_1: -1958752383706604442
+      Terrain (32x32) 1_10: -3320224050380729828
+      Terrain (32x32) 1_11: -1217060526009796456
+      Terrain (32x32) 1_2: -3080658855377680247
+      Terrain (32x32) 1_3: 5879400672582174684
+      Terrain (32x32) 1_4: -4473233279859360152
+      Terrain (32x32) 1_5: -6520684320083945299
+      Terrain (32x32) 1_6: 8347879001680537852
+      Terrain (32x32) 1_7: 4646587558490905048
+      Terrain (32x32) 1_8: 6566310205628143723
+      Terrain (32x32) 1_9: 4048045080183632588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
