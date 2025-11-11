@@ -11,6 +11,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Settings/Scenes/fase 2.unity
     guid: 98484ce87715ea34098dbcfbb2d97a25
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 4.unity
+    guid: b785880dc525f534bbe00fb53e4f749f
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 5.unity
+    guid: cb894ac6593ef7a47a9701f48bf2cded
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 6.unity
+    guid: 7acd4b766a8e4c3499c2f41d2b486bb6
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 7.unity
+    guid: 9b85926de432bf2489763c9f66885df4
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 8.unity
+    guid: 8c413bf6123a4a544ac37214129acf5c
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 9.unity
+    guid: 97f1447b568eb4b4db312cdd078e292a
+  - enabled: 1
+    path: Assets/Settings/Scenes/fase 10.unity
+    guid: 151c0c0f7b2d56d4dad1a69e2600feac
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
